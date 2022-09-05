@@ -14,7 +14,8 @@ Membuat file red_text_widget pada folder lib
 ![Screenshot hello_world](images/3.PNG)
 
 ### 4. Menambahkan Widget AutoSizeText pada file red_text_widget.dart
-Maka akan terjadi error dikarenakan belum melakukan import pada package import 'package:auto_size_text/auto_size_text.dart';
+Maka akan terjadi error dikarenakan belum melakukan import pada package import'package:auto_size_textauto_size_text.dart';
+
 ![Screenshot hello_world](images/3.PNG)
 
 ### 5. Membuat Variabel text dan parameter di constructor
